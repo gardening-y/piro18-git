@@ -1,2 +1,2 @@
-i = 1;
+i = 1; naver
 piro cart
